@@ -35,6 +35,7 @@ export default class WeatherApi extends React.Component<IWeatherApiProps,IWeathe
         console.error('Error fetching weather data:', error);
       });
   }
+  //Hello world
   public render(): React.ReactElement<IWeatherApiProps> {
     return (
       <div className={styles.weatherApi}>
