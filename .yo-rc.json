@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "weather-api",
+    "libraryId": "3f975cc6-689d-4bfa-9371-969d874a8a19",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "WeatherApi",
+    "solutionShortDescription": "WeatherApi description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
